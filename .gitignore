@@ -1,0 +1,27 @@
+# Logs
+
+*.log
+
+npm-debug.log*
+
+# Dependency directories
+
+node_modules/
+
+vendor/
+
+# Build artifacts (if applicable) build/ dist/
+
+# Operating System files
+
+.DS Store
+
+Thumbs.db
+
+# Any other large files you specifically don't want to track
+
+# E.g., large .zip files or databases if not managed by LFS
+
+*.zip
+
+*.rar
